@@ -5,7 +5,7 @@
       "name": "Red Panda",
       "imageUrl": "https://i1.wp.com/www.redpandanetwork.org/wp-content/uploads/2018/10/Photo-1-for-Give-page.png?fit=584%2C584&ssl=1",
       "description": "not actually a panda",
-      "donations": 50
+      "donations": 200
     },
     {
       "id": 3,
@@ -27,6 +27,13 @@
       "description": "A group of aquatic flightless birds. ",
       "donations": 2000,
       "id": 5
+    },
+    {
+      "name": "whale Shark",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Similan_Dive_Center_-_great_whale_shark.jpg/220px-Similan_Dive_Center_-_great_whale_shark.jpg",
+      "description": "Is not a shark!",
+      "donations": 0,
+      "id": 6
     }
   ]
 }
