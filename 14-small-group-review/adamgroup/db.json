@@ -1,0 +1,32 @@
+{
+  "cats": [
+    {
+      "id": 0,
+      "name": "PARTY CAT",
+      "image": "assets/party_cat.jpeg",
+      "catchphrase": "Party on Party Cat",
+      "likes": 23
+    },
+    {
+      "id": 1,
+      "name": "Mittens",
+      "image": "https://i.pinimg.com/originals/89/9e/71/899e7132fd5125067051104e5e3e3073.jpg",
+      "catchphrase": "Party cat likes to party",
+      "likes": 1
+    },
+    {
+      "id": 2,
+      "name": "TOD",
+      "image": "https://i.ytimg.com/vi/h6ExCwtgGe8/maxresdefault.jpg",
+      "catchphrase": "Yeah... I'm a dj",
+      "likes": 5
+    },
+    {
+      "name": "Luke",
+      "image": "assets/cofee_cat.png",
+      "catchphrase": "I broke the lamp!!!",
+      "likes": 0,
+      "id": 3
+    }
+  ]
+}
