@@ -6,11 +6,14 @@ Your app must be a HTML/CSS/JS frontend that accesses a JSON server. All interac
 Your entire app must run on a single page. There should be NO redirects. In other words, your project will contain a single HTML file.
 Some interactivity is required. This could be as simple as adding a "like" button or adding comments.
 Your application must have minimum three CRUD actions. 
+
 - Create a resource using POST
 - Read a resource using GET
 - Update a resource using PATCH
 - Destroy a resource using Delete
+
 Having a partner usually forces you to have explicit conversations about the design of your application and the choices you make. Without a partner, you should still be very clear - and write down - the decisions you make about your project. This will not only help you think more clearly, it will also help you communicate your project to instructors when asking for help.
+
 - Write down your ideas (use diagrams!)
 - Get your MVP, JSON server, and wireframes approved by instructors before you start coding
 - Start by creating directories and github a repository
