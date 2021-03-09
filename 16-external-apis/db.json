@@ -1,0 +1,14 @@
+{
+  "team": [
+    {
+      "name": "gengar",
+      "sprites": {
+        "front_default": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png"
+      },
+      "id": 1
+    }
+  ],
+  "gym": [
+    
+  ]
+}
