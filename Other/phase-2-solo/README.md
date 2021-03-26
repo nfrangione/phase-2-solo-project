@@ -41,12 +41,11 @@ This JSON server will be running on `http://localhost:3000`.
 
 #### Routes
 
-| Method | Route               | Headers                                                              | Body                 |
-| ------ | ------------------- |:--------------------------------------------------------------------:|:--------------------:|
-| GET    | `/api/v1/users`     |                                                                      |                      |
-| GET    | `/api/v1/notes`     |                                                                      |                      |
-| POST   | `/api/v1/notes`     | `'Content-Type': 'application/json'`<br/>`'Accept': 'application/json'` | title, body |
-| PATCH  | `/api/v1/notes/:id` | `'Content-Type': 'application/json'`<br/>`'Accept': 'application/json'` | title, body |
+| Method | Route           | Headers                                                                 | Body                  |
+| ------ | --------------- |:-----------------------------------------------------------------------:|:---------------------:|
+| GET    | `/notes`        |                                                                         |                       |
+| POST   | `/notes`        | `'Content-Type': 'application/json'`<br/>`'Accept': 'application/json'` | title, body           |
+| PATCH  | `/notes/:id`    | `'Content-Type': 'application/json'`<br/>`'Accept': 'application/json'` | title, body           |
 
 
 
